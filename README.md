@@ -1,7 +1,7 @@
 ## Hey, I'm Ulysse
 
-MS in ECE at Carnegie Mellon University. Most recently at Tornyol (YC F25), where I worked on flight-controller hardware and onboard sensing for autonomous drones. Before that, engineering intern at Withings, prototyping embedded health-sensing devices.
+MS in ECE at Carnegie Mellon University. I design boards and bring them up: schematic, layout, power, then the firmware that proves they work.
 
-Outside of hardware I write a fair amount of software. At Withings I built Python and OpenCV pipelines that caught cartridge defects the production line's existing vision station missed, deployed on a Raspberry Pi station on the line, and later added a TensorFlow Lite autoencoder. I was on the team that won the Capital One prize at TartanHacks 2026, working on the XRP Ledger side. And I maintain a declarative NixOS fleet running five machines and everything I self-host.
+At Tornyol (YC F25) I designed a 22×22 mm Betaflight flight controller and a 20 A supercapacitor charger for autonomous drones, and brought up a ToF sensor on an STM32N6. At Withings I built a low-power wake-on-sound pipeline for a smartwatch that cut a snoring-detection feature's battery cost from 15 days to 1.7. I now work on sensing hardware and firmware for exoskeletons at CMU's MetaMobility Lab.
 
-Interested in embedded systems, robotics, and ML at the edge.
+I also write software: Python and OpenCV vision pipelines on the Withings production line, the XRP Ledger backend for our Capital One prize at TartanHacks 2026, and a declarative NixOS fleet running five machines.
